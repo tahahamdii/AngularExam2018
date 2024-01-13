@@ -17,4 +17,20 @@ export class ModuleService {
     const addModuleUrl = `${this.apiUrl}/modules`;
     return this.http.post(addModuleUrl, module);
   }
+  addModul2e(module: any): Observable<any> {
+    const addModuleUrl = `${this.apiUrl}/modules`;
+    return this.http.post(addModuleUrl, module);
+  }
+  addModuleé(module: any): Observable<any> {
+    const addModuleUrl = `${this.apiUrl}/modules`;
+    return this.http.post(addModuleUrl, module);
+  }
+  addModule3(module: any): Observable<any> {
+    const addModuleUrl = `${this.apiUrl}/modules`;
+    return this.http.post(addModuleUrl, module);
+  }
+  addModul4e(module: any): Observable<any> {
+    const addModuleUrl = `${this.apiUrl}/modules`;
+    return this.http.post(addModuleUrl, module);
+  }
 }

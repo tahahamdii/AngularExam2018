@@ -1,0 +1,32 @@
+{
+  "modules": [
+    {
+      "id": "3857",
+      "reference": "A",
+      "nom": "a",
+      "coef": "z",
+      "nbHeures": "2"
+    },
+    {
+      "id": "daf3",
+      "reference": "a",
+      "nom": "a",
+      "coef": "z",
+      "nbHeures": "2"
+    },
+    {
+      "id": "203b",
+      "reference": "a",
+      "nom": "a",
+      "coef": "z",
+      "nbHeures": "2"
+    },
+    {
+      "id": "c936",
+      "reference": "a",
+      "nom": "dz",
+      "coef": "zd",
+      "nbHeures": "22"
+    }
+  ]
+}
